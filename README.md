@@ -31,11 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/PriyankaAnnadurai/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118351569/79f35abb-d71a-48c8-94e6-56023c755a86)
+
+![empd exp 4 ip](https://github.com/Tanushreea05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849166/4bebc653-aea7-47b4-88d8-45c27801025e)
 
 ### Output:
-![image](https://github.com/PriyankaAnnadurai/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118351569/f8dfeb20-d6e8-4bfb-be3f-6fd22fa23506)
 
+![empd exp 4 op](https://github.com/Tanushreea05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849166/55404e0c-7a64-4b9a-af0a-14fac007d3c6)
 
 ### Name: TANUSHREE.A 
 ### Register Number: 212223100057
